@@ -1,4 +1,4 @@
-# 🚀 Expert Level Customer Churn Prediction and LTV Maximization
+# 🚀  Customer Churn Prediction and LTV Maximization
 
 ## 🌟 Project Goal & Overview
 
