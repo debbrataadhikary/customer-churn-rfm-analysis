@@ -38,7 +38,7 @@ The dashboard is divided into three strategic views to provide a 360-degree busi
 Focuses on the macro-level health of the business, highlighting the **$8.91M Total Revenue** and the general distribution of customer segments.
 * **Segment Insight:** **27.54%** of the customer base are **Loyal & High Value**, driving the core business.
 
-![Overall Performance Summary](01_Overall_Performance_Summary.png)
+![Overall Performance Summary](Images/01_Overall_Performance_Summary.png)
 
 ---
 
