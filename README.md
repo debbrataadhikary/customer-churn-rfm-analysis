@@ -56,7 +56,7 @@ A deep dive into the **$1.04M revenue loss**.
 * **Critical Finding:** **60.18%** of churned customers fall into the **Churned/Inactive** RFM category, indicating they were low-engagement users before leaving.
 * **Retention Warning:** **36.78%** of churned users were once **Potential/At Risk**, suggesting a failure in mid-stage engagement.
 
-![Churned Customer Analysis](03_Churned_Customer_Analysis.png)
+![Churned Customer Analysis](Images/03_Churned_Customer_Analysis.png)
 
 ---
 
